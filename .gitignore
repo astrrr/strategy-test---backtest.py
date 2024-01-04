@@ -17,3 +17,10 @@ Thumbs.db
 
 # Environment variables
 .env
+
+
+# Data
+data/
+
+# HTML file
+*.html
